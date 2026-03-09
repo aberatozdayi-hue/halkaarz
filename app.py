@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Halka Arz Pro Takip", layout="wide")
 
-st.title("📈 Halka Arz Portföy Terminali")
+st.title("📈 aberato")
 
 # Portföy Verilerin (SVGYO 169 Lot, GENKM 155 Lot güncel)
 if 'df' not in st.session_state:
